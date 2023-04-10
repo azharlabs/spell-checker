@@ -1,0 +1,2 @@
+# spell checker
+ The SpellChecker class is a Python class that allows you to perform spell checking and correction tasks on input text using the PySpellChecker library. It offers methods for checking and correcting spelling errors in text, as well as exporting and importing custom dictionaries. The class can be easily integrated into your Python projects by following the simple installation and usage instructions provided in the README.md file. Contributions to the project are welcome and the class is licensed under the MIT License.
